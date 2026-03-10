@@ -9,16 +9,16 @@ In this project, I explored a real-world scenario: how students experience exhau
 The goal of this project is to use Machine Learning to identify patterns and predict whether a student is likely to experience academic-related stress or exhaustion.
 
 ## Technologies Used: 
-# Python
-# Pandas – for data collection and preprocessing
-# NumPy – for numerical operations
-# Scikit-learn – for model building and evaluation
+Python
+Pandas - for data collection and preprocessing
+NumPy – for numerical operations
+Scikit-learn – for model building and evaluation
 
 ## Project Workflow
-# Data Collection – Gathered responses from students about their academic routines.
-# Data Preprocessing – Cleaned and prepared the dataset for training.
-# Model Training – Applied the Logistic Regression algorithm.
-# Model Testing – Evaluated the model performance on test data.
+ Data Collection – Gathered responses from students about their academic routines.
+ Data Preprocessing – Cleaned and prepared the dataset for training.
+ Model Training – Applied the Logistic Regression algorithm.
+ Model Testing – Evaluated the model performance on test data.
 
 ## Machine Learning Model
 I implemented the Logistic Regression algorithm to classify and predict student stress levels based on input features.
